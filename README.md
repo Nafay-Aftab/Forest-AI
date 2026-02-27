@@ -8,7 +8,8 @@ Trained on a massive, highly imbalanced dataset of ~581,000 spatial records, the
 
 📁 **Project Assets (Screenshots, Artifacts & Outputs):** [Google Drive Folder](https://drive.google.com/drive/folders/1lPpY4i4n15HuY8z5h1cDx63TErgKfHV3?usp=sharing)
 
-![ForestAI UI](YOUR_IMAGE_LINK_HERE)
+![ForestAI UI](<img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/22e6dc55-e350-470a-a39a-e9b2f1f7e853" />
+)
 
 ---
 
