@@ -6,7 +6,7 @@ ForestAI is an end-to-end Machine Learning pipeline and decoupled microservices 
 
 Trained on a massive, highly imbalanced dataset of ~581,000 spatial records, the system acts as a high-speed inference engine for geospatial analysis. It identifies hyper-rare vegetation zones (comprising less than 0.5% of the forest) with extreme precision, achieving a **0.947 Matthews Correlation Coefficient (MCC)** with a sub-second inference latency of **3.8 microseconds per prediction**.
 
-📁 **Project Assets (Screenshots, Artifacts & Outputs):** [Google Drive Folder](https://drive.google.com/drive/folders/1lPpY4i4n15HuY8z5h1cDx63TErgKfHV3?usp=sharing)
+📁 **Project Assets (Trained model, Artifacts & Preprocessing files):** [Google Drive Folder](https://drive.google.com/drive/folders/1lPpY4i4n15HuY8z5h1cDx63TErgKfHV3?usp=sharing)
 
 ![ForestAI UI](<img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/22e6dc55-e350-470a-a39a-e9b2f1f7e853" />
 )
