@@ -89,4 +89,4 @@ The UI will launch locally at `http://localhost:8501`
 
 **Muhammad Nafay Aftab**
 Aspiring AI Engineer | BSCS
-[LinkedIn Profile](#)
+[LinkedIn Profile](https://www.linkedin.com/in/muhammad-nafay-aftab739/)
